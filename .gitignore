@@ -1,0 +1,10 @@
+# NetBeans specific
+nbproject/private/
+build/
+dist/
+*.class
+
+# General ignores
+.DS_Store
+Thumbs.db
+*.log
